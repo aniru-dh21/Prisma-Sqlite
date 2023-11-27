@@ -5,3 +5,7 @@
 - Node.js (12.2 or higher)
 
 ## Build and run the project
+
+```
+$ npx prisma migrate dev
+```
