@@ -27,6 +27,9 @@ npm install
 ```
 
 3. Run the database migrations:
+```
+npx prisma migrate dev
+```
 Run the database migrations:
 
 ```
