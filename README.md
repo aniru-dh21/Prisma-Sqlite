@@ -35,14 +35,3 @@ npx prisma migrate dev
 ```
 npm run dev
 ```
-Run the database migrations:
-
-```
-$ npx prisma migrate dev
-```
-
-Run the project:
-
-```
-$ npm run dev
-```
