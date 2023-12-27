@@ -1,4 +1,4 @@
-# Prisma-Sqlite
+# Building a Node.js Database using Prisma and SQLite
 
 ## Requirements to build the project
 
