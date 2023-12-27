@@ -32,6 +32,9 @@ npx prisma migrate dev
 ```
 
 4. Run the project:
+```
+npm run dev
+```
 Run the database migrations:
 
 ```
