@@ -30,6 +30,8 @@ npm install
 ```
 npx prisma migrate dev
 ```
+
+4. Run the project:
 Run the database migrations:
 
 ```
