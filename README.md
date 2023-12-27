@@ -17,6 +17,9 @@ Before getting cloning project, take the time to double-check if you have versio
 ## Build and run the project
 
 1. Clone the Repository to your local machine using ZIP File or using the following git command:
+```
+git clone https://github.com/aniru-dh21/Prisma-Sqlite.git
+```
 
 Run the database migrations:
 
