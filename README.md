@@ -26,6 +26,7 @@ git clone https://github.com/aniru-dh21/Prisma-Sqlite.git
 npm install
 ```
 
+3. Run the database migrations:
 Run the database migrations:
 
 ```
