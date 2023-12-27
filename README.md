@@ -21,6 +21,8 @@ Before getting cloning project, take the time to double-check if you have versio
 git clone https://github.com/aniru-dh21/Prisma-Sqlite.git
 ```
 
+2. Install the dependencies using `npm` after changing the present working directory `cd Prisma-Sqlite`:
+
 Run the database migrations:
 
 ```
