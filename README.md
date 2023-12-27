@@ -4,6 +4,8 @@ Prisma is a modern ORM (Object-Relational-Mapping tool) that works with Node.js 
 
 SQLite is a self-contained database engine. This means that you don't need to configure a database on your computer.
 
+> "Prisma helps app developers build faster and make fewer errors with an open source ORM for PostgreSQL, MySQL and SQLite."
+
 ## Requirements to build the project
 
 - Node.js (12.2 or higher)
