@@ -10,6 +10,8 @@ SQLite is a self-contained database engine. This means that you don't need to co
 
 Before getting cloning project, take the time to double-check if you have version 12.2 or higher of <a href="https://nodejs.org/en/">Node.js</a>.
 
+> **Note**: If you want to check your Node.js version, you can type: `node -v` in a terminal. The output will be the version.
+
 ## Build and run the project
 
 Run the database migrations:
